@@ -13,3 +13,5 @@ print(f"check_prime(10,000,000) = {check_prime(10_000_000)}")
 # check_prime(10,000,000) = False
 print(f"check_prime(10,000,019) = {check_prime(10_000_019)}")
 # check_prime(10,000,019) = True
+
+
